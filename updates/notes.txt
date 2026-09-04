@@ -1,1 +1,1 @@
-Nowa wersja Piranha Engine Studio.
+Dekompilacja VDF w  Piranha Engine Studio.
