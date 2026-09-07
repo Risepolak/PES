@@ -1,1 +1,1 @@
-Dekompilacja VDF w  Piranha Engine Studio.
+Fix Piranha Engine Studio.
